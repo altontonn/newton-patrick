@@ -1,0 +1,17 @@
+#title{
+    font-family: verdana;
+    text-align: center;
+  }
+  #description{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: orange;
+  }
+  .surv{
+    background: var(--color-darkblue-alpha);
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.25rem;
+    text-align: center;
+  }
+  
